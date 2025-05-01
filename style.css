@@ -1,0 +1,245 @@
+@media (max-width: 767px) {
+.insta .text {
+    padding: 0px !important;
+}
+.insta {
+    padding-top: 2rem;
+}
+.insta .sign {
+    padding-top: 30px !important;
+    margin-bottom: -10rem !important;
+}
+.insta .text .content button.btn.btn-primary {
+    width: 73% !important;
+}
+.insta .sign span {
+    padding: 19px 49px !important;
+}
+.insta .text .content .in input.form-control.mr-sm-2 {
+    padding: 11px 6px !important;
+    }
+.app {
+    padding: 0 !important;
+    margin-top: 10rem;
+}
+.app .buttons {
+    margin-left: -14px;
+}
+.links {
+    padding-bottom: 4rem !important;
+}
+.footer {
+    padding-bottom: 1rem;
+}
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+.insta .text {
+    padding: 0 !important;
+}
+.app {
+    padding: 0 !important;
+}
+.insta {
+    padding-top: 3rem;
+}
+.insta .text .content .icon img {
+    width: 50% !important;
+}
+.insta .text .content .in {
+    padding: 0rem 5rem !important;
+}
+.insta .text .content button.btn.btn-primary {
+    margin-bottom: 27px !important;
+    width: 77% !important;
+    }
+    .insta .text .content .in input.form-control.mr-sm-2 {
+        margin-bottom: 17px !important;
+    }
+    .insta .sign {
+    padding-top: 45px !important;
+    padding-bottom: 4rem !important;
+}
+.insta .sign span {
+    padding: 25px 229px !important;
+}
+.app h6 {
+    padding-bottom: 20px !important;
+    }
+.app .buttons {
+    justify-content: center;
+}
+.footer {
+    padding-bottom: 92px;
+}
+    }
+
+
+
+
+
+
+.insta {
+    background: #f8f9fa;
+}
+.insta .text {
+   padding: 1rem 22rem;
+}
+.insta .text .content {
+	background: #fff;
+	text-align: center;
+	border: 1px solid gainsboro;
+}
+.insta .text .content .icon img {
+    width: 60%;
+    padding-bottom: 3px;
+}
+.insta .text .content .in {
+    margin-bottom: 1rem;
+        padding: 0rem 45px;
+}
+.insta .text .content .in input.form-control.mr-sm-2 {
+    padding: 11px 10px;
+    background-color: #f4f4f4;
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+.insta .text .content button.btn.btn-primary {
+        margin-bottom: 16px;
+    width: 78%;
+    font-weight: 600;
+}
+.insta .text .content .or {
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+.insta .text .content .login a i.fa.fa {
+    font-size: 23px;
+    padding: 0px 6px;
+}
+.insta .text .content .login a {
+    font-weight: 500;
+    color: #0056b3;
+    font-size: 18px;
+}
+.insta .text .content .for {
+    padding-top: 1rem;
+    padding-bottom: 18px;
+}
+.insta .text .content .for a {
+    font-size: 15px;
+    font-weight: 500;
+    color: #0056b3;
+}
+.insta .sign {
+    text-align: center;
+    padding-top: 20px;
+        padding-bottom: 3rem;
+}
+.insta .sign span {
+	background: #fff;
+    border: 1px solid gainsboro;
+    padding: 23px 88px;
+}
+.app {
+	    background: #f8f9fa;
+    padding: 0px 28rem;
+    }
+.app h6 {
+	padding-bottom: 12px;
+    text-align: center;
+    color: #6c6a6a;
+    font-size: 17px;
+}
+.app .btn .content {
+    padding: 0px 25px;
+}
+.app .btn .content p {
+    font-size: 11px;
+    margin-bottom: -7px;
+}
+.app .btn .content span {
+    
+    font-size: 20px;
+}
+.app .btn i.fa.fa {
+    padding: 4px 8px;
+    font-size: 31px;
+}
+.app .btn button.btn.btn-secondary {
+    padding: 2px 11px;
+    background: #282828;
+}
+.app .btn2 {
+    margin-top: 7px;
+}
+.app .btn2 .content {
+        padding: 0px 18px;
+}
+.app .btn2 .content p {
+    margin-right: 33px;
+    font-size: 10px;
+    margin-bottom: -5px;
+}
+.app .btn2 .content span {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.app .btn2 i.fa.fa {
+    padding: 0px 2px;
+    font-size: 30px;
+    margin-right: 8px;
+}
+.app .btn2 button.btn.btn-secondary {
+	background: #282828;
+    padding: 0px 11px;
+    padding-top: 5px;
+        padding-bottom: 1.1px;
+}
+.links {
+	padding-bottom: 2rem;
+    padding-top: 3rem;
+    text-align: center;
+}
+.links {
+	 background: #f8f9fa;
+}
+.links a {
+	font-family: sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 14px;
+    color: #8f8f8f;
+    padding: 2px 6px;
+    letter-spacing: 0.9px;
+}
+.footer {
+	background: #f8f9fa;
+}
+.footer p {
+	font-family: sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: ;
+    text-align: center;
+    letter-spacing: 0.7px;
+}
+ul li a {
+    color: black;
+    text-decoration: none;
+    
+    padding: 0px 15px;
+}
+ul li a:hover{
+	color: black;
+    text-decoration: none;
+    background-color: #358aff;
+    padding: 2px 15px;
+}
+
+
